@@ -59,14 +59,14 @@ Material:
     - Vector1_6069AED6: 1
     - Vector1_98CDA849: 0.97
     - Vector1_A1465F2B: 1
-    - Vector1_BD4AE052: 0.23
+    - Vector1_BD4AE052: 0.68
     - Vector1_D29DFC56: 0.22
     - Vector1_D3DC5ED: 2
-    - Vector1_E6511E03: 0.486
-    - Vector1_ECF96909: 0.58
+    - Vector1_E6511E03: 0.165
+    - Vector1_ECF96909: 0.384
     - Vector1_F1CC0717: 0.84
     - Vector1_F4F45539: 1
-    - Vector1_FABC1DC1: 0.31
+    - Vector1_FABC1DC1: 0.1
     - _AlphaCutoff: 0.5
     - _AlphaCutoffEnable: 0
     - _AlphaDstBlend: 10
@@ -105,9 +105,9 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - Color_129BDAE2: {r: 0, g: 0.6079955, b: 1, a: 0}
-    - Color_896FF2C4: {r: 0.08156818, g: 0.2299178, b: 0.4433962, a: 0}
-    - Color_AB02896F: {r: 0.05740476, g: 0.06253121, b: 0.09433961, a: 0}
-    - Vector2_510EEAF5: {r: 1, g: 0, b: 0, a: 0}
+    - Color_896FF2C4: {r: 0.3039783, g: 0.5616991, b: 0.9339623, a: 0}
+    - Color_AB02896F: {r: 0.19406372, g: 0.57266194, b: 0.8396226, a: 0}
+    - Vector2_510EEAF5: {r: 0.6, g: 0.6, b: 0, a: 0}
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
