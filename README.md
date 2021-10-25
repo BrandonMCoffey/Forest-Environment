@@ -10,4 +10,4 @@ Project Info:
 
 Project 01 - Outdoors Environment
 
-Unity 2019.4.2f1
+Unity 2019.4.2f1 HDRP
